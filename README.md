@@ -16,7 +16,7 @@ Ikuti urutan langkah berikut agar proyek ini bisa langsung dijalankan setelah cl
 
 ```bash
 git clone https://github.com/inikanipp/PROMINER_DataMining_Minikiwir.git
-cd NAMA_REPO_KAMU
+cd PROMINER_DataMining_Minikiwir
 
 
 ### 2. Jalankan Notebook di Google Colab
