@@ -1,7 +1,5 @@
 # PROMINER_DataMining_Minikiwir
 
-# Proyek Data Mining – Clustering UMKM
-
 Repositori ini berisi dataset, notebook dan hasil analisis dari proyek data mining. Proyek ini bertujuan untuk melakukan clustering UMKM menggunakan algoritma machine learning K-MEANS.
 
 ---
@@ -14,10 +12,8 @@ Ikuti urutan langkah berikut agar proyek ini bisa langsung dijalankan setelah cl
 
 ### 1. Clone Repository
 
-```bash
 git clone https://github.com/inikanipp/PROMINER_DataMining_Minikiwir.git
 cd PROMINER_DataMining_Minikiwir
-
 
 ### 2. Jalankan Notebook di Google Colab
 
